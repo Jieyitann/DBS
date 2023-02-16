@@ -1,0 +1,111 @@
+CreditWorthy,Age,Education,MonthlyIncome,MarriageStatus,HasChildren,ExistingLoan,PurposeOfLoan
+Yes,41,Master,6000,Single,Yes,Yes,Holiday
+Yes,54,Diploma,10000,Married,Yes,No,Housing
+Yes,73,Bachelor,9000,Married,Yes,No,Investment
+Yes,66,Master,14000,Single,Yes,No,Housing
+No,88,Diploma,2000,Single,No,No,Housing
+Yes,70,Master,13000,Married,Yes,Yes,Housing
+Yes,52,PhD,5000,Single,Yes,Yes,Housing
+No,19,Diploma,2000,Single,No,Yes,Business Loan
+Yes,71,Master,13000,Married,Yes,Yes,Investment
+Yes,95,Diploma,2000,Married,No,Yes,Business Loan
+No,61,Diploma,2000,Single,Yes,No,Investment
+Yes,69,Bachelor,6000,Single,Yes,No,Holiday
+Yes,63,Bachelor,5000,Single,No,No,Holiday
+Yes,91,Bachelor,11000,Married,Yes,No,Housing
+Yes,41,Bachelor,9000,Single,No,No,Housing
+No,30,Diploma,9000,Single,No,Yes,Business Loan
+No,18,Diploma,2000,Married,Yes,Yes,Business Loan
+Yes,93,Bachelor,10000,Single,Yes,Yes,Business Loan
+No,74,PhD,7000,Single,No,Yes,Investment
+Yes,59,Diploma,12000,Single,Yes,No,Investment
+Yes,36,Diploma,13000,Married,Yes,No,Housing
+Yes,86,Master,14000,Single,Yes,No,Housing
+Yes,61,PhD,5000,Single,No,Yes,Holiday
+No,92,Diploma,6000,Single,Yes,No,Housing
+Yes,67,Master,9000,Married,Yes,No,Business Loan
+No,45,Bachelor,2000,Single,No,Yes,Business Loan
+Yes,83,Master,12000,Single,No,Yes,Investment
+No,89,PhD,2000,Married,No,No,Investment
+Yes,25,PhD,12000,Married,Yes,No,Holiday
+No,37,Master,5000,Married,Yes,Yes,Holiday
+Yes,47,Bachelor,8000,Single,Yes,Yes,Holiday
+Yes,24,Bachelor,9000,Married,Yes,No,Investment
+No,94,Master,6000,Single,No,No,Housing
+Yes,33,Diploma,12000,Married,No,No,Investment
+Yes,43,Bachelor,12000,Married,No,Yes,Holiday
+No,89,PhD,5000,Single,No,No,Business Loan
+Yes,48,Bachelor,9000,Single,No,No,Business Loan
+No,52,Bachelor,3000,Married,Yes,Yes,Holiday
+Yes,60,Diploma,4000,Married,Yes,No,Investment
+No,82,PhD,12000,Married,Yes,No,Investment
+Yes,31,PhD,13000,Married,No,No,Business Loan
+Yes,27,Bachelor,7000,Single,No,No,Investment
+Yes,73,Diploma,15000,Married,No,No,Business Loan
+No,30,PhD,5000,Married,No,Yes,Housing
+Yes,23,Diploma,6000,Single,Yes,No,Holiday
+Yes,26,Diploma,15000,Married,Yes,No,Business Loan
+No,57,Diploma,7000,Single,No,Yes,Investment
+Yes,34,Master,8000,Single,No,Yes,Investment
+Yes,59,Master,9000,Married,No,Yes,Housing
+Yes,62,PhD,3000,Single,Yes,No,Holiday
+No,53,Master,5000,Married,No,No,Investment
+Yes,50,Master,12000,Single,Yes,Yes,Housing
+No,94,Diploma,7000,Married,Yes,No,Housing
+Yes,49,Diploma,11000,Married,Yes,Yes,Investment
+No,91,Master,7000,Single,Yes,No,Business Loan
+Yes,72,Bachelor,3000,Single,Yes,No,Holiday
+Yes,74,PhD,5000,Married,Yes,Yes,Holiday
+Yes,51,PhD,13000,Married,No,No,Investment
+Yes,23,Master,14000,Married,No,No,Holiday
+Yes,45,PhD,13000,Married,Yes,No,Investment
+Yes,37,Master,5000,Single,Yes,Yes,Investment
+Yes,78,PhD,10000,Single,No,Yes,Housing
+No,59,Diploma,3000,Single,No,No,Business Loan
+No,77,Master,3000,Married,Yes,Yes,Housing
+Yes,76,Bachelor,6000,Married,Yes,Yes,Holiday
+No,89,PhD,9000,Married,No,No,Business Loan
+Yes,34,Bachelor,5000,Single,No,No,Investment
+Yes,92,Bachelor,15000,Married,No,No,Holiday
+Yes,53,Master,5000,Married,Yes,Yes,Holiday
+Yes,37,Diploma,2000,Married,Yes,No,Holiday
+No,63,Master,4000,Married,Yes,Yes,Investment
+Yes,27,PhD,11000,Single,No,Yes,Housing
+Yes,92,Master,12000,Single,No,Yes,Holiday
+Yes,65,PhD,10000,Single,No,No,Housing
+No,98,PhD,14000,Married,Yes,Yes,Housing
+Yes,64,PhD,13000,Single,Yes,Yes,Investment
+No,34,Diploma,6000,Married,No,Yes,Business Loan
+Yes,36,Bachelor,6000,Married,Yes,No,Holiday
+Yes,33,Bachelor,13000,Married,No,No,Investment
+Yes,81,Diploma,8000,Single,No,Yes,Holiday
+No,63,Diploma,2000,Single,Yes,Yes,Holiday
+No,82,Bachelor,8000,Married,Yes,Yes,Housing
+Yes,34,Diploma,15000,Married,No,No,Housing
+Yes,70,Bachelor,11000,Married,No,Yes,Investment
+No,92,Bachelor,15000,Married,No,Yes,Business Loan
+Yes,64,PhD,13000,Single,No,Yes,Housing
+Yes,24,Bachelor,4000,Single,Yes,Yes,Holiday
+No,95,Master,13000,Married,No,Yes,Business Loan
+No,42,Diploma,2000,Married,Yes,No,Investment
+Yes,36,Bachelor,9000,Married,Yes,Yes,Investment
+No,87,Bachelor,3000,Married,No,No,Investment
+No,54,Diploma,6000,Single,Yes,Yes,Housing
+No,92,Master,6000,Single,No,No,Business Loan
+Yes,84,Bachelor,14000,Single,Yes,No,Holiday
+No,92,PhD,11000,Single,Yes,Yes,Business Loan
+No,71,PhD,4000,Married,No,No,Business Loan
+Yes,38,PhD,11000,Single,Yes,No,Business Loan
+No,95,Bachelor,3000,Married,Yes,No,Housing
+Yes,59,Diploma,8000,Single,No,No,Holiday
+Yes,75,PhD,5000,Married,No,Yes,Housing
+No,71,PhD,14000,Married,No,Yes,Business Loan
+Yes,69,Bachelor,6000,Single,Yes,Yes,Holiday
+Yes,57,PhD,6000,Married,Yes,No,Housing
+Yes,22,Bachelor,13000,Single,Yes,Yes,Investment
+Yes,53,PhD,12000,Married,Yes,No,Investment
+Yes,73,Diploma,6000,Single,Yes,No,Investment
+Yes,54,Diploma,5000,Single,Yes,No,Business Loan
+No,86,Diploma,2000,Married,No,Yes,Business Loan
+No,70,Master,3000,Married,Yes,No,Business Loan
+Yes,47,Bachelor,6000,Single,Yes,No,Business Loan

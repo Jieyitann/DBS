@@ -1,0 +1,111 @@
+FirstName,LastName,Gender,Age,MarriageStatus,PhoneNumber,NetYearlyIncome,HighValueIndividual
+Maisy,O'Doherty,,,,,,
+Maisy,O'Doherty,Female,26.0,Single,488 238-8338maisyodoherty@gmail.com,73000.0,No
+Ellis,Ross,Female,66.0,Married,(830) 694-4738ellisross@gmail.com,176000.0,No
+Dana,Oconnor,Female,52.0,Married,(296)855-2148danaoconnor@gmail.com,266000.0,No
+Gareth,Ferrell,Male,46.0,Single,882400-9859garethferrell@gmail.com,729000.0,Yes
+Jaime,Boone,Male,,Married,(569) 6117858jaimeboone@gmail.com,460000.0,Yes
+Jemma,Sloan,Female,41.0,Married,(730)864-9016jemmasloan@gmail.com,480000.0,Yes
+Blake,Monroe,Male,73.0,,(903) 899-6641blakemonroe@gmail.com,427000.0,
+Lilly-Rose,Humphrey,Female,29.0,Single,(897) 854-9070lilly-rosehumphrey@gmail.com,368000.0,Yes
+Ruairi,Schmidt,Male,30.0,Single,(766) 325-9938ruairischmidt@gmail.com,936000.0,Yes
+Cody,Drake,Male,56.0,Married,(740) 812-6242codydrake@gmail.com,283000.0,No
+Mark,Barton,Male,52.0,Married,(635) 350-3681markbarton@gmail.com,33000.0,No
+Mackenzie,Stone,Female,74.0,Single,502860-7035mackenziestone@gmail.com,83000.0,No
+Ashton,Hanna,Male,,,(591) 758-4453ashtonhanna@gmail.com,708000.0,
+Joao,Thomas,Male,77.0,Married,(868) 694-8380joaothomas@gmail.com,328000.0,Yes
+Sumayyah,Andersen,Female,39.0,Married,(333) 528-2260sumayyahandersen@gmail.com,311000.0,Yes
+Hermione,Chambers,Female,55.0,Married,(733) 520-5821hermionechambers@gmail.com,167000.0,No
+Filip,Maldonado,Male,27.0,Single,(759) 460-8220filipmaldonado@gmail.com,787000.0,Yes
+Keanu,Quinn,Male,43.0,Married,(750) 8496452keanuquinn@gmail.com,354000.0,Yes
+Lauren,Hogan,Female,,Single,(726) 630-4043laurenhogan@gmail.com,260000.0,
+Ray,Schultz,Male,33.0,Single,(450) 9767499rayschultz@gmail.com,64000.0,No
+Catherine,Johnson,Female,58.0,Married,(475) 356-6995catherinejohnson@gmail.com,320000.0,Yes
+Kasey,Hartley,Male,55.0,Married,(734) 941-7926kaseyhartley@gmail.com,572000.0,Yes
+Sasha,Connorrr,Female,48.0,Single,(340) 653-2348sashaconnor@gmail.com,714000.0,Yes
+Sasha,Connor,Female,48.0,Single,(340) 653-2348sashaconnor@gmail.com,714000.0,Yes
+Jannat,Harris,Female,41.0,Married,(266) 318-6686jannatharris@gmail.com,783000.0,Yes
+Alessandro,Pratt,Male,61.0,Married,390 590-0537alessandropratt@gmail.com,441000.0,Yes
+Flynn,Bloggs,Female,68.0,,(722) 551-5493flynnbloggs@gmail.com,74000.0,
+Rebekah,Escobar,Male,32.0,Single,(819) 275-2204rebekahescobar@gmail.com,200000.0,No
+Stephen,Dorsey,Male,21.0,Single,528 724-4113stephendorsey@gmail.com,232000.0,No
+Fred,,Male,57.0,Married,(433) 735-3551fredblake@gmail.com,883000.0,Yes
+,Blake,Male,57.0,Married,(433) 735-3551fredblake@gmail.com,883000.0,Yes
+Fred,Blake,Male,57.0,Married,(433) 735-3551fredblake@gmail.com,883000.0,Yes
+Vera,Gay,Female,,Married,(518) 597-9826veragay@gmail.com,549000.0,Yes
+Victoria,Gallegos,Female,40.0,Single,(953) 954-5828victoriagallegos@gmail.com,840000.0,Yes
+Ewan,Osborne,Male,59.0,Married,(875) 253-6641ewanosborne@gmail.com,917000.0,Yes
+Shanice,Nolan,Female,20.0,Single,785423-0264shanicenolan@gmail.com,941000.0,Yes
+Chantelle,Payne,Female,76.0,Married,(424) 304-5939chantellepayne@gmail.com,63000.0,No
+Aleena,Evans,Female,61.0,Married,(381) 666-5997aleenaevans@gmail.com,468000.0,Yes
+Teddy,Hebert,Male,49.0,,(816) 750-8753teddyhebert@gmail.com,205000.0,No
+Lennon,Sharp,Female,61.0,Married,(672) 549-8462lennonsharp@gmail.com,584000.0,Yes
+Frances,Larson,Female,63.0,Married,(790) 893-2198franceslarson@gmail.com,495000.0,
+Arianna,Mosley,Female,26.0,Single,701 608-6760ariannamosley@gmail.com,585000.0,Yes
+Juanita,Combs,Female,77.0,Married,(579) 481-0993juanitacombs@gmail.com,877000.0,Yes
+Alex,Ferguson,Male,,,(692) 910-2171alexferguson@gmail.com,981000.0,Yes
+Aneesa,Hodge,Female,23.0,Single,(695) 352-8648aneesahodge@gmail.com,206000.0,No
+Yasmin,Solomon,Female,55.0,Married,8038249485yasminsolomon@gmail.com,38000.0,No
+Daisie,Munoz,Female,29.0,Single,(966) 688-4835daisiemunoz@gmail.com,510000.0,Yes
+Elizabeth,David,Female,25.0,Single,(641) 968-0402elizabethdavid@gmail.com,723000.0,Yes
+Zayd,Schaefer,Male,37.0,Married,(348) 492-8623zaydschaefer@gmail.com,538000.0,Yes
+Kade,Townsend,Female,77.0,,(229) 283-5145kadetownsend@gmail.com,784000.0,
+Kobi,Serrano,Male,,Married,(239) 762-5665kobiserrano@gmail.com,690000.0,Yes
+Ada,Harding,Female,52.0,Married,(503) 619-4334adaharding@gmail.com,539000.0,Yes
+Erica,Vaughn,Male,25.0,Single,840 538-5791ericavaughn@gmail.com,536000.0,Yes
+Kacie,Nichols,Male,36.0,Married,(919) 2778103kacienichols@gmail.com,441000.0,Yes
+Zahraa,Hooood,Female,49.0,Married,(228) 486-2441zahraahood@gmail.com,641000.0,Yes
+Zahraa,Hood,Female,49.0,Married,(228) 486-2441zahraahood@gmail.com,641000.0,Yes
+Zahraaaa,Hood,Female,49.0,Married,(228) 486-2441zahraahood@gmail.com,641000.0,Yes
+Zahraa,Hood,,,,,,
+Brayden,Barr,Male,41.0,Married,(404) 541-4224braydenbarr@gmail.com,806000.0,Yes
+Darcey,Riley,Female,69.0,,(359) 397-1549darceyriley@gmail.com,513000.0,Yes
+Willie,French,Female,70.0,Single,(371) 598-8892williefrench@gmail.com,873000.0,Yes
+Louis,Cortez,Male,77.0,Married,(319) 511-4814louiscortez@gmail.com,186000.0,No
+Zackary,Dennis,Male,50.0,,634 649-5998zackarydennis@gmail.com,494000.0,Yes
+Layton,Frost,Male,,Married,(490) 671-9052laytonfrost@gmail.com,971000.0,Yes
+Trey,Santiago,Male,78.0,Single,(784) 240-2797treysantiago@gmail.com,460000.0,
+Lexi,Leonard,Female,38.0,Married,(591) 773-5129lexileonard@gmail.com,275000.0,No
+Jim,Pham,Male,59.0,Married,(373) 365-5459jimpham@gmail.com,979000.0,Yes
+Ahmad,Wood,Male,22.0,Single,(523) 689-6132ahmadwood@gmail.com,161000.0,No
+Zak,Hickman,Male,48.0,Married,(217) 444-2442zakhickman@gmail.com,367000.0,Yes
+Franklin,Middleton,,,,,,
+Dale,Guerra,Male,78.0,Married,(706) 8440745daleguerra@gmail.com,48000.0,No
+Clyde,Arroyo,Male,22.0,Single,(316) 869-0671clydearroyo@gmail.com,665000.0,Yes
+Carmen,Irwin,Female,23.0,,(882)949-8211carmenirwin@gmail.com,808000.0,Yes
+Jazmine,Ali,Female,76.0,Married,(773) 394-5356jazmineali@gmail.com,225000.0,No
+Cynthia,Herrera,Female,44.0,,(569) 740-3579cynthiaherrera@gmail.com,85000.0,
+Isobella,Poole,Female,41.0,Married,(448) 390-3990isobellapoole@gmail.com,119000.0,No
+Danyal,Cobb,Male,,Single,(707) 264-9012danyalcobb@gmail.com,49000.0,No
+Dalton,Mitchell,Male,44.0,Married,735962-2244daltonmitchell@gmail.com,157000.0,No
+Sylvie,Hoover,Female,41.0,Married,(887) 806-9452sylviehoover@gmail.com,969000.0,Yes
+Chester,Chandler,Male,31.0,Single,(393) 493-2882chesterchandler@gmail.com,991000.0,Yes
+Ruth,Mullins,Female,41.0,Married,(819) 792-8587ruthmullins@gmail.com,206000.0,No
+Ruther,Mullins,Female,41.0,Married,(819) 792-8587ruthmullins@gmail.com,206000.0,No
+Ruther,Mullinss,Female,41.0,Married,(819) 792-8587ruthmullins@gmail.com,206000.0,No
+Ruther,Mull,Female,41.0,Married,(819) 792-8587ruthmullins@gmail.com,206000.0,No
+Annalise,Freeman,Female,43.0,Married,(416) 888-8194annalisefreeman@gmail.com,148000.0,No
+Kelsey,Mcleod,Female,71.0,Married,(263) 407-0811kelseymcleod@gmail.com,361000.0,Yes
+Isobelle,Foley,Female,23.0,Single,(419) 696-3155isobellefoley@gmail.com,791000.0,Yes
+Findlay,Gordon,Male,35.0,Single,(410) 694-0839findlaygordon@gmail.com,979000.0,Yes
+Giovanni,Gutierrez,Male,52.0,,(734)5136684giovannigutierrez@gmail.com,804000.0,Yes
+Darcie,Benjamin,Female,73.0,Married,(431) 796-5080darciebenjamin@gmail.com,530000.0,
+Sufyan,Wyatt,Male,75.0,Married,(437) 592-7260sufyanwyatt@gmail.com,233000.0,No
+Ariana,Carr,Female,25.0,Single,(692) 397-3719arianacarr@gmail.com,830000.0,Yes
+Alexis,Parsons,Male,,Married,(367) 715-3198alexisparsons@gmail.com,891000.0,Yes
+Gianluca,O'Quinn,Male,27.0,Single,(319) 442-7442gianlucaoquinn@gmail.com,266000.0,No
+Darren,Lee,Male,48.0,Married,(962) 957-8953darrenlee@gmail.com,107000.0,
+Rupert,Aguirre,Male,48.0,Married,(701) 259-8239rupertaguirre@gmail.com,334000.0,Yes
+Adelaide,Cantrell,Female,,Single,481 312-5648adelaidecantrell@gmail.com,655000.0,Yes
+Bobby,Marshall,Female,76.0,Married,(795) 324-7525bobbymarshall@gmail.com,424000.0,Yes
+Mathew,Mcmahon,Male,23.0,Single,(780) 841-4452mathewmcmahon@gmail.com,405000.0,Yes
+Joanna,Shepherd,Female,58.0,Married,(277) 851-8223joannashepherd@gmail.com,972000.0,Yes
+Elliot,Richard,Female,61.0,Married,(409) 625-8183elliotrichard@gmail.com,327000.0,Yes
+Sufyaan,Whitney,Male,56.0,Married,(718) 313-1815sufyaanwhitney@gmail.com,825000.0,Yes
+Maja,Burnett,,,,,,
+Celia,Matthams,Female,23.0,Single,(937) 625-4308celiamatthams@gmail.com,501000.0,Yes
+Kaya,Carrillo,Male,31.0,Single,(314)431-7751kayacarrillo@gmail.com,252000.0,No
+Cormac,Moyer,Male,40.0,Married,(609) 350-3771cormacmoyer@gmail.com,78000.0,No
+Cade,Watts,Male,,Married,(827) 222-0618cadewatts@gmail.com,645000.0,
+Evelyn,Brandt,Female,58.0,Married,(930) 546-6988evelynbrandt@gmail.com,470000.0,Yes
+Ammar,Dunlap,Male,66.0,Married,(271) 705-7576ammardunlap@gmail.com,474000.0,Yes
